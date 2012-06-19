@@ -1,4 +1,0 @@
-Startupideia
-============
-
-Design do Startupideia
